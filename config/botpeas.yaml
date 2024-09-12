@@ -17,6 +17,8 @@ DESCRIPTION_KEYWORDS:
 - podman
 - " CBS "
 
+DESCRIPTION_KEYWORDS_I:
+- escalation
 
 PRODUCT_KEYWORDS:
 - sudo
@@ -32,3 +34,11 @@ PRODUCT_KEYWORDS:
 - linux
 - windows
 - macos
+
+PRODUCT_KEYWORDS_I:
+- linux
+- windows
+- macos
+- zapier
+- okta
+- jamf
