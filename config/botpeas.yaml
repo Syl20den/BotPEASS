@@ -1,10 +1,8 @@
 ALL_VALID: no
 
-DESCRIPTION_KEYWORDS_I:
-- privilege escalation
+DESCRIPTION_KEYWORDS:
 - escalation
 - privesc
-- high integrity
 - elevated privilege
 - escalation of privilege
 - " sudo "
@@ -16,23 +14,21 @@ DESCRIPTION_KEYWORDS_I:
 - winpeas
 - docker
 - kubernetes
-- " lxc "
 - podman
+- " CBS "
 
-DESCRIPTION_KEYWORDS:
-- ThisIsACaseSensitiveExample
 
-PRODUCT_KEYWORDS_I:
+PRODUCT_KEYWORDS:
 - sudo
 - docker
 - kubernetes
-- lxc
+- gafana
+- mikrotik
+- zapier
+- okta
+- jamf
 - podman
 - container
 - linux
 - windows
 - macos
-
-
-PRODUCT_KEYWORDS:
-- ThisIsACaseSensitiveExample
